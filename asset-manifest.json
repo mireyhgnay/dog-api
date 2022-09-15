@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dog-api/static/css/main.613d6f72.chunk.css",
+    "main.js": "/dog-api/static/js/main.0f6a3ec5.chunk.js",
+    "main.js.map": "/dog-api/static/js/main.0f6a3ec5.chunk.js.map",
+    "runtime-main.js": "/dog-api/static/js/runtime-main.36f972ee.js",
+    "runtime-main.js.map": "/dog-api/static/js/runtime-main.36f972ee.js.map",
+    "static/js/2.b77fa580.chunk.js": "/dog-api/static/js/2.b77fa580.chunk.js",
+    "static/js/2.b77fa580.chunk.js.map": "/dog-api/static/js/2.b77fa580.chunk.js.map",
+    "index.html": "/dog-api/index.html",
+    "static/css/main.613d6f72.chunk.css.map": "/dog-api/static/css/main.613d6f72.chunk.css.map",
+    "static/js/2.b77fa580.chunk.js.LICENSE.txt": "/dog-api/static/js/2.b77fa580.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36f972ee.js",
+    "static/js/2.b77fa580.chunk.js",
+    "static/css/main.613d6f72.chunk.css",
+    "static/js/main.0f6a3ec5.chunk.js"
+  ]
+}
